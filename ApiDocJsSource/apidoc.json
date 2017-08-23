@@ -1,0 +1,7 @@
+{
+  "name": "Api Doc JS Example",
+  "version": "0.0.1",
+  "description": "This project is for understanding the basics of ApiDocJS",
+  "title": "API Spec Sheets",
+  "url" : "https://localhost:8080/novopay/api/v1"
+}
